@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  creationTimestamp: "2022-03-03T23:09:56Z"
+  name: nginx-sa
+  namespace: default
+  resourceVersion: "1596"
+  uid: b854f238-a7cc-4297-8695-61fc5a4c088d
+secrets:
+- name: nginx-sa-token-96tmv
