@@ -1,6 +1,6 @@
 # NginxKubernetes
 
-The purpose of this project was to spin up a simple web deployment and incorporate services, secrets, services accounts, horizaontal pod autoscaling, and pod distrubition budgets within a Kubernetes cluster.
+The purpose of this project was to spin up a simple web deployment and incorporate services, secrets, services accounts, horizontal pod autoscaling, and pod distrubition budgets within a Kubernetes cluster.
 
 ## Installation
 
