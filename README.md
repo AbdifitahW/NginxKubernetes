@@ -12,4 +12,4 @@ The remainding installs and their respective guides can be found here:
 1. [Docker](https://docs.docker.com/engine/install/ubuntu/)
 2. [Kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/)
 3. [minikube](https://minikube.sigs.k8s.io/docs/start/)
-4. [skaffold](https://skaffold.dev/docs/install/) (optional: if you building images)
+4. [skaffold](https://skaffold.dev/docs/install/) (optional: if you're building images)
