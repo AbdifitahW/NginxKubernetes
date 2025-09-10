@@ -7,7 +7,7 @@ The purpose of this project was to spin up a simple web deployment and incorpora
 The environment that I ran this on was a Windows OS running WSL2 (Ubuntu).
 Follow this [WSL2](https://docs.microsoft.com/en-us/windows/wsl/install) guide to set that up.
 
-The remainding installs and their respective guides can be found here:
+The remaining installs and their respective guides can be found here:
 
 1. [Docker](https://docs.docker.com/engine/install/ubuntu/)
 2. [Kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/)
